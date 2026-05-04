@@ -1,0 +1,6 @@
+node_modules/
+MiddleWare(B)/node_modules/
+FrontEnd/node_modules/
+.env
+__pycache__/
+*.pyc
